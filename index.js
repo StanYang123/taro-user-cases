@@ -1485,7 +1485,14 @@ const userCases = {
       framework: "react",
       taroVersion: "1.3.18",
       screenshot: []
-    }
+    },
+    {
+      name: "快递熊",
+      url: "https://mass.alipay.com/wsdk/img?fileid=A*GveCRrL4ckQAAAAAAAAAAAAAAQAAAQ&bz=am_afts_openhome&zoom=295w_310h",
+      framework: "taro",
+      taroVersion: "3.6.30",
+      screenshot: []
+    },
   ],
   百度智能小程序: [
     {
